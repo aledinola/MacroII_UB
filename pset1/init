@@ -1,1 +1,10 @@
-TBA
+SOLVING EQUATION FOR RESERVATION WAGE
+R = T(R)
+
+This requires two approximations:
+1) Approximate the integral in the right-hand-side of the equation
+   using quadrature
+2) Solve the nonlinear equation R=T(R) using fixed point iterations
+
+
+
